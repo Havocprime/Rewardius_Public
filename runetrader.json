@@ -1,0 +1,15 @@
+{
+  "active": true,
+  "expires_at": "2025-07-05T12:00:00+00:00",
+  "offers": [
+    {
+      "id": "RuneOfBone_11883",
+      "name": "Rune of Bone",
+      "emoji": "🦴",
+      "price_rune": 3,
+      "rarity": "Ultra Rare",
+      "category": "Rune",
+      "description": "You broke them. And came back stronger."
+    }
+  ]
+}

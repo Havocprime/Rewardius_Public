@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2025-07-05T08:45:00+00:00",
+    "action": "buy",
+    "user_id": "112233445566",
+    "item_id": "Classic_Ball_15482",
+    "price": 250,
+    "location": "shop"
+  },
+  {
+    "timestamp": "2025-07-05T08:55:00+00:00",
+    "action": "sell",
+    "user_id": "112233445566",
+    "item_id": "Echo_Fragment_10332",
+    "price": 80,
+    "location": "secondhand"
+  },
+  {
+    "timestamp": "2025-07-05T17:42:19.430890+00:00",
+    "action": "sell",
+    "user_id": "777039317918679070",
+    "item_id": "GEN_7801_00.17",
+    "price": 660,
+    "location": "sold"
+  }
+]

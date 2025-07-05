@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Classic Ball",
+    "emoji": "⚽",
+    "description": "A well-worn soccer ball.",
+    "price": 250,
+    "stock": 3,
+    "rarity": "Common",
+    "id": "Classic_Ball_59486",
+    "expires_at": "2025-07-05T17:38:56.598703+00:00"
+  },
+  {
+    "name": "Vintage Jersey",
+    "emoji": "👕",
+    "description": "Rare retro jersey. Looks good!",
+    "price": 500,
+    "stock": 2,
+    "rarity": "Rare",
+    "id": "Vintage_Jersey_18130",
+    "expires_at": "2025-07-05T17:38:56.598723+00:00"
+  }
+]

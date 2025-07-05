@@ -1,0 +1,36 @@
+[
+  {
+    "name": "StarShard",
+    "rarity": "Epic",
+    "owner": "1389242255969091584",
+    "id": "2b8c00d6",
+    "float": 3.27,
+    "grade": "Twin+",
+    "mint_date": "2025-07-05",
+    "item_text": "Forged in the heart of a collapsing star.",
+    "lore": "A fragment of stellar brilliance rewarded to the elite."
+  },
+  {
+    "name": "CustomMint",
+    "rarity": "Common",
+    "owner": "1389242255969091584",
+    "id": "GEN_1_23.45",
+    "float": 23.45,
+    "grade": "None",
+    "mint_date": "2025-07-05",
+    "item_text": "A humble reward for effort on the pitch.",
+    "lore": "Every legend starts somewhere."
+  },
+  {
+    "id": "GEN_7356_06.60",
+    "name": "Mystery Relic",
+    "rarity": "Rare",
+    "season": "GEN_1",
+    "roll_grade": "Mirror",
+    "float": "06.60",
+    "float_title": "Scratched",
+    "pitch_value": 1100,
+    "owner": "777039317918679070",
+    "mint_date": "2025-07-05T17:41:08.852361+00:00"
+  }
+]
