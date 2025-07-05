@@ -117,7 +117,7 @@ async def announce_mint_to_channel(client, user, item, method):
             f"**Roll Grade:** `{item.get('roll_grade','')}`\n"
             f"**Pitch Value:** `{item.get('pitch_value', 0)}pc`\n"
             f"**ID:** `{item.get('id','')}`\n\n"
-            f"*{method.lower()}*"
+            
         ),
         color=RARITY_COLORS.get(item['rarity'], discord.Color.gold())
     )
